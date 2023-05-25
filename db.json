@@ -1,0 +1,67 @@
+{
+  "data": [
+
+    {
+        "id": "all",
+        "vessels": 120,
+        "transhipment": [48, 13, 31, 7],
+        "sumTranshipments": [120, 62, 93, 77],
+        "currentMonthProduction": 12.57,
+        "previousYearCurrentMonthProduction": 10.31,
+        "amountPerMonth": [52, 76, 41, 95, 63, 108, 87, 37, 112, 83, 45, 57],
+        "otherVessels": [64, 20, 92, 71, 36, 81, 17, 58, 27, 49, 78, 30]
+    },
+    {
+        "id": "species1",
+        "vessels": 80,
+        "transhipment": [16, 27, 8, 35],
+        "currentMonthProduction": 4.21,
+        "previousYearCurrentMonthProduction": 6.39,
+        "sumTranshipments": [98, 44, 79, 57],
+        "amountPerMonth": [136, 64, 54, 78, 93, 45, 109, 60, 76, 86, 105, 80],
+        "otherVessels": [25, 50, 71, 17, 39, 59, 81, 95, 69, 34, 48, 75]
+    },
+    {
+        "id": "species2",
+        "vessels": 50,
+        "transhipment": [12, 18, 7, 28],
+        "currentMonthProduction": 8.87,
+        "previousYearCurrentMonthProduction": 5.92,
+        "sumTranshipments": [75, 36, 67, 48],
+        "amountPerMonth": [110, 57, 42, 70, 84, 38, 92, 55, 68, 75, 98, 72],
+        "otherVessels": [21, 46, 64, 14, 32, 51, 69, 88, 61, 31, 42, 63]
+    },
+    {
+        "id": "species3",
+        "vessels": 120,
+        "transhipment": [22, 33, 14, 42],
+        "currentMonthProduction": 6.78,
+        "previousYearCurrentMonthProduction": 7.91,
+        "sumTranshipments": [115, 51, 88, 62],
+        "amountPerMonth": [
+        160, 82, 71, 105, 124, 59, 142, 78, 99, 111, 136, 104
+        ],
+        "otherVessels": [42, 84, 118, 28, 65, 100, 138, 158, 114, 56, 78, 120]
+    },
+    {
+        "id": "species3",
+        "vessels": 65,
+        "transhipment": [41, 23, 9, 30],
+        "currentMonthProduction": 6.02,
+        "previousYearCurrentMonthProduction": 5.73,
+        "sumTranshipments": [82, 41, 76, 54],
+        "amountPerMonth": [120, 57, 48, 70, 89, 42, 105, 59, 72, 81, 99, 73],
+        "otherVessels": [31, 55, 78, 19, 37, 56, 74, 92, 68, 45, 51, 68]
+    },
+    {
+        "id": "species5",
+        "vessels": 90,
+        "transhipment": [18, 25, 10, 32],
+        "currentMonthProduction": 5.12,
+        "previousYearCurrentMonthProduction": 7.01,
+        "sumTranshipments": [105, 47, 85, 63],
+        "amountPerMonth": [140, 72, 62, 92, 110, 52, 126, 70, 88, 99, 121, 92],
+        "otherVessels": [35, 60, 85, 21, 47, 70, 95, 110, 80, 40, 56, 82]
+    }
+  ]
+}
